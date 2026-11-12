@@ -36,6 +36,7 @@ The dataset covers 114 experiments in mice and 47 in rats.
 - **Welch's ANOVA**, which does not assume equal variances, followed by the **Games–Howell** post hoc test
 - **Estimation statistics** with `dabestr`: mean differences against a shared control, with 5000 bootstrap resamples for confidence intervals. In each state the control is the method with the highest mean effectiveness.
 - Violin plots overlaid with the individual data points and significance brackets
+- The relationship between effectiveness and the duration of the recording
 
 Before the statistical analysis, extreme outlying values were removed, and experiments that did not target the state under analysis were excluded from that state's comparison.
 
@@ -83,5 +84,5 @@ Thesis work was supervised by Dr. Charlotte Boccara (Boccara Lab, NCMBM, Univers
 
 ## Author
 
-**Henriette N. Myrland** – MSc in Biotechnology (NMBU)
-[LinkedIn]([https://www.linkedin.com/in/henriette-nikolaisen-myrland-95541821b/])
+**Henriette N. Myrland** – MSc in Biotechnology (NMBU), one-year programme in Informatics (UiO)
+[LinkedIn](https://www.linkedin.com/in/henriette-nikolaisen-myrland-95541821b/)
