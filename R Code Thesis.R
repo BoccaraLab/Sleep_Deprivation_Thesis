@@ -16,7 +16,8 @@ library(viridis)
 library(ggsignif)
 
 #PREPARE DATASET
-SDM <- read.table('clipboard', strip.white=FALSE, sep='\t', na.strings='NA', header=TRUE, dec='.') #importing from excel
+library(readxl)
+SDM <- read_excel("R Studio Dataset (Sleep Deprivation).xlsx") #importing from excel
 str(SDM) #Look at
 summary(SDM) #Summarize
 
