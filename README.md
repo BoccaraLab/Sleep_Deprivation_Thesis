@@ -84,4 +84,4 @@ Thesis work was supervised by Dr. Charlotte Boccara (Boccara Lab, NCMBM, Univers
 ## Author
 
 **Henriette N. Myrland** – MSc in Biotechnology (NMBU)
-[LinkedIn](https://www.linkedin.com/in/henriette-n-myrland-95541821b)
+[LinkedIn]([https://www.linkedin.com/in/henriette-nikolaisen-myrland-95541821b/])
